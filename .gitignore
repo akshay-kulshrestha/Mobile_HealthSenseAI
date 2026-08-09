@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Test cache
+.pytest_cache/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Large model output binaries (Optional: remove if you want ONNX uploaded)
+# *.onnx
